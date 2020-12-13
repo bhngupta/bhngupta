@@ -6,9 +6,9 @@ My name is Bhanu V Gupta. I am a Computer Science Junior.
 - 👯 I’m looking to collaborate on opensource projects in Python/JS/TS
 - 🤔 I’m looking for help with Python CLIs
 - 📫 How to reach me: bhanu.mbvg@gmail.com
-
+<!--
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Bhanu-mbvg&show_icons=true&count_private=true?theme=tokyonight)
-
+-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu-mbvg&layout=compact)
 <!--
 **Bhanu-mbvg/Bhanu-mbvg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
