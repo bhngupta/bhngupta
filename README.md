@@ -1,7 +1,6 @@
 ### Hi there 👋
-
-I am Bhanu Gupta, currently a junior at SRM Institue of Science and Technology
 <!--
+I am Bhanu Gupta, currently a junior at SRM Institue of Science and Technology
 - 🔭 I’m currently working on Electron and Django based applications
 - 👯 I’m looking to collaborate on opensource projects in Python/JS/TS
 - 🤔 I’m looking for help with Python CLIs
