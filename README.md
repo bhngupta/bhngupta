@@ -9,7 +9,7 @@ I am Bhanu Gupta, currently a junior at SRM Institue of Science and Technology
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu-mbvg&layout=compact&count_private=true&hide=html,css,Jupyter%20Notebook&langs_count=12)
 --> 
 
-### Hi there, I'm Bhanu - aka [Bhanu-mbvg][website] 👋
+### Hi there, I'm [Bhanu][website] 👋
 
 ## I'm a junior year undergraduate student at SRM Chennai.
 - 🌱 I’m currently learning and exploring multiple domains in Computer Science 
