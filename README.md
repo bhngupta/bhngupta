@@ -11,7 +11,7 @@ I am Bhanu Gupta, currently a junior at SRM Institue of Science and Technology
 
 ### Hi there, I'm [Bhanu][website] 👋
 
-## I'm a junior year undergraduate student at SRM Chennai.
+## I'm a senior (undergraduate) student at SRM Chennai.
 - 🌱 I’m currently learning and exploring multiple domains in Computer Science 
 - 👯 I’m looking to collaborate with other researchers and creators
 - 🔭 I'm highly experienced in scalable software development and testing 
