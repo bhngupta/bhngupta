@@ -13,6 +13,6 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Bhanu-mbvg&count_private=true&hide=stars&show_icons=true&hide_border=true" />
 
-[website]: https://bhanu-mbvg.github.io
+[website]: https://bhanu730.gitlab.io/home/
 [twitter]: https://twitter.com/
 [linkedin]: https://www.linkedin.com/in/bvg
