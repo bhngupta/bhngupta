@@ -1,6 +1,6 @@
 ### Hi there, I'm [Bhanu][website] 👋
 
-## I'm a 2nd year Master's student in New York University
+## I'm a Master's student at New York University
 - 🌱 I’m currently learning and exploring multiple domains in Computer Science 
 - 👯 I’m looking to collaborate with other researchers and creators
 - 🔭 I'm highly experienced in scalable software development and testing 
@@ -13,6 +13,5 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Bhngupta&count_private=true&hide=stars&show_icons=true&hide_border=true" />
 
-[website]: https://bhanu730.gitlab.io/home/
-[twitter]: https://twitter.com/
-[linkedin]: https://www.linkedin.com/in/bvg
+[website]: https://bhngupta.github.io/home/
+[linkedin]: https://www.linkedin.com/in/bvg/
