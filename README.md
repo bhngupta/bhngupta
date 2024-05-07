@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning and exploring multiple domains in Computer Science 
 - 👯 I’m looking to collaborate with other researchers and creators
 - 🔭 I'm highly experienced in scalable software development and testing 
-- 📫 How to reach me: <a href="mailto:bhanuvkgupta@gmail.com">bhanuvkgupta@gmail.com</a>
+- 📫 How to reach me: <a href="mailto:bhanu.gupta@nyu.edu">bhanu.gupta@nyu.edu</a>
 
 ### Connect with me:
 
